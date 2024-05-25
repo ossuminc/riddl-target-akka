@@ -3,3 +3,20 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+/.scalafmt.conf.etag
+.metals/
+.vscode/
+.bloop/
+/.bsp/
+!.idea/runConfigurations/
+!.idea/dictionaries
+/.idea/**
+/project/project
+/target
+**/target/
+**/.DS_Store
+.DS_Store
+**/*.zip
+**/*.gzip
+
