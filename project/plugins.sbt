@@ -1,4 +1,4 @@
-addSbtPlugin("com.ossuminc" % "sbt-ossuminc" % "0.9.6-3-22830bc1")
+addSbtPlugin("com.ossuminc" % "sbt-ossuminc" % "0.9.6-3-22830bc1-20240528-0917")
 
 // This enables sbt-bloop to create bloop config files for Metals editors
 // Uncomment locally if you use metals, otherwise don't slow down other

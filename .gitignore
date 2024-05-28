@@ -4,6 +4,8 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+/project/project/**
+/project/target/
 /.scalafmt.conf.etag
 .metals/
 .vscode/
@@ -12,11 +14,6 @@ hs_err_pid*
 !.idea/runConfigurations/
 !.idea/dictionaries
 /.idea/**
-/project/project
 /target
-**/target/
 **/.DS_Store
 .DS_Store
-**/*.zip
-**/*.gzip
-
